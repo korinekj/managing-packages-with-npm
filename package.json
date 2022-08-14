@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Jarda Kořínek",
   "description": "This is my first Node.js project",
+  "keywords": [
+    "nodejs",
+    "first project",
+    "freecodecamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
